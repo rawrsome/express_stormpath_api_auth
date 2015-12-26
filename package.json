@@ -1,0 +1,23 @@
+{
+  "name": "express_stormpath_api_auth",
+  "version": "0.0.1",
+  "description": "simple express stormpath web app to handle api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawrsome/express_stormpath_api_auth.git"
+  },
+  "author": "Christopher Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawrsome/express_stormpath_api_auth/issues"
+  },
+  "homepage": "https://github.com/rawrsome/express_stormpath_api_auth#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-stormpath": "^2.3.4"
+  }
+}
